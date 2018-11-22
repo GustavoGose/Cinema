@@ -1,0 +1,21 @@
+#bgt {
+    background-color: #590039;
+    color: white;
+    height: 100px;
+
+}
+#iconplay {
+    font-size: 48px;
+    color: yellow;
+
+}
+.nav-link {
+    color: white;
+    font-size: 18px;
+    height: 25%;
+}
+.nav-link:hover {
+    color: white;
+    text-decoration: none;
+    height: 25%;
+}
