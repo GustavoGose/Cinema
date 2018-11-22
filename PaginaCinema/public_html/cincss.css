@@ -4,18 +4,22 @@
     height: 100px;
 
 }
-#iconplay {
+#iconplay { 
     font-size: 48px;
     color: yellow;
-
 }
 .nav-link {
     color: white;
-    font-size: 18px;
-    height: 25%;
+    font-size:16px;
+}
+#lalal {
+    border: 1px solid black;
 }
 .nav-link:hover {
     color: white;
     text-decoration: none;
-    height: 25%;
+}
+#batman {
+    width: 1280px;
+    height: 640px;
 }
