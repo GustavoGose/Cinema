@@ -35,6 +35,9 @@
     text-decoration: none;
     color: orange;
 }
-.box-exibicao h1{
+.box-exibicao{
     color: #590039;
+}
+.filme1 {
+    border: 1px solid black;
 }
