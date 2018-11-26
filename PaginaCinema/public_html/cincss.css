@@ -2,7 +2,7 @@
     background-color: #590039;
     color: white;
     height: 100px;
-
+    border-bottom: 2px solid gray;
 }
 #iconplay { 
     font-size: 48px;
@@ -16,6 +16,25 @@
     border: 1px solid black;
 }
 .nav-link:hover {
-    color: white;
+    color: orange;
     text-decoration: none;
+}
+.box-programacao ul {
+    padding:0px;
+    margin:0px;
+    background-color:#590039;
+    list-style:none;
+}
+.box-programacao ul li{
+    display: inline;
+    border-right: 1px solid gray;
+    color: white;
+}
+
+.box-programacao ul li a:hover {
+    text-decoration: none;
+    color: orange;
+}
+.box-exibicao h1{
+    color: #590039;
 }
