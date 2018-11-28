@@ -24,6 +24,7 @@
     margin:0px;
     background-color:#590039;
     list-style:none;
+    border-bottom: 2px solid gray;
 }
 .box-programacao ul li{
     display: inline;
@@ -38,6 +39,29 @@
 .box-exibicao{
     color: #590039;
 }
-.filme1 {
-    border: 1px solid black;
+.box-exibicao a:hover{
+    color: orange;
+    text-decoration: none;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #590039;
+    position: relative;
+}
+.pe {
+    background: #590039;
+    border-top: 2px solid gray;
+}
+.icons {
+    font-size: 30px;
+    margin-left: 10px;
+    color: black;
+}
+.icons h4 {
+    color: white;
+}
+.sitec {
+    font-size: 30px;
+    color: white;
 }
